@@ -1,4 +1,4 @@
-# Paylense API Python SDK</h1>
+# Paylense API Python SDK[STILL UNDER DEVELOPMENT]</h1>
 
 <strong>Payment gateway for african businesses</strong>
 
